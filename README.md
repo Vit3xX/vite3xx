@@ -1,1 +1,34 @@
-# vite3xx
+<h2 align="center">Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!</h2>
+<br>
+<p align="center">Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,</p>
+<br>
+
+<div align="center">
+<img height="119" src="https://github-readme-stats.vercel.app/api?username=vit3xx&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=discord_old_blurple"/>
+<img height="119" src="https://github-readme-stats.vercel.app/api/pin/?username=vit3xx&repo=github-readme-stats&cache_seconds=86400&theme=discord_old_blurple"/>
+</div>
+  
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="vtx-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="vtx-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="vtx-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+  <img align="center" alt="vtx-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="vtx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="vtx-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="vtx-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="vtx-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
+  </div>
+  
+  <img align="right" alt="GIF" height="100" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwbHBqZTRrMWI4Y29kMWlwdHdnMnRnNjY2ZjFxdm84MXdiNGtsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJ7pQEqC1c8YBIkNyt/giphy.gif">
+  
+  ## 
+
+ 
+<div align="center"> 
+  <a href="https://www.youtube.com/@DimensaoDEV" target="_blank"><img src="https://img.shields.io/badge/YouTube-3A4155?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/vzana.exe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-3A4155?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/zenvfps" target="_blank"><img src="https://img.shields.io/badge/Twitch-3A4155?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:victorpiovezana@gmail.com"><img src="https://img.shields.io/badge/Gmail-3A4155?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-piovezana-j-2692a81ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3A4155?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
