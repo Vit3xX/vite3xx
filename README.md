@@ -1,6 +1,6 @@
-<h2 align="center">Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!</h2>
+<h2 align="center">My name is Victor, I've been an IT student for 5 years!</h2>
 <br>
-<p align="center">Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,</p>
+<p align="center">highly committed professional with excellent interpersonal skills and an exceptional ability to solve problems and achieve results.</p>
 <br>
 
 <div align="center">
