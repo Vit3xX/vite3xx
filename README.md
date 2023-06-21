@@ -5,7 +5,7 @@
 
 <div align="center">
 <img height="119" src="https://github-readme-stats.vercel.app/api?username=vit3xx&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=discord_old_blurple"/>
-<img height="119" src="https://github-readme-stats.vercel.app/api/pin/?username=vit3xx&repo=github-readme-stats&cache_seconds=86400&theme=discord_old_blurple"/>
+
 </div>
   
 <div style="display: inline_block" align="center"><br>
