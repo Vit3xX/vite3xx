@@ -25,9 +25,6 @@
 
  
 <div align="center"> 
-  <a href="https://www.youtube.com/@DimensaoDEV" target="_blank"><img src="https://img.shields.io/badge/YouTube-3A4155?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vzana.exe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-3A4155?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/zenvfps" target="_blank"><img src="https://img.shields.io/badge/Twitch-3A4155?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:victorpiovezana@gmail.com"><img src="https://img.shields.io/badge/Gmail-3A4155?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-piovezana-j-2692a81ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3A4155?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
