@@ -5,7 +5,7 @@
 
 <div align="center">
 <img height="119" src="https://github-readme-stats.vercel.app/api?username=vit3xx&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=discord_old_blurple"/>
-
+<img alt="GIF" height="119" width="119" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwbHBqZTRrMWI4Y29kMWlwdHdnMnRnNjY2ZjFxdm84MXdiNGtsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJ7pQEqC1c8YBIkNyt/giphy.gif">
 </div>
   
 <div style="display: inline_block" align="center"><br>
@@ -19,7 +19,6 @@
   <img align="center" alt="vtx-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
   </div>
   
-  <img align="right" alt="GIF" height="100" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYwbHBqZTRrMWI4Y29kMWlwdHdnMnRnNjY2ZjFxdm84MXdiNGtsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJ7pQEqC1c8YBIkNyt/giphy.gif">
   
   ## 
 
